@@ -18,7 +18,7 @@ predictive models are developed, they are evaluated using suitable performance m
 capabilities. The insights derived from these models can then be leveraged by educational institutions, career advisors, and employers to optimize student placement processes, personalize educational pathways, and enhance overall student success and
 employability. Overall, student placement prediction using EDA empowers stakeholders with data-driven insights to make informed decisions.
 
-
+#Download Data set("https://drive.google.com/file/d/1HQ6tJ9TDvPUfYQyjkxvo2KI83fvROBwt/view?usp=drive_link")
 
 # Keywords:
 Support Vector Machine, Student data analysis, Classification algorithms, Feature
