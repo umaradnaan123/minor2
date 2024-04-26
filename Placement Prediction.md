@@ -20,7 +20,8 @@ employability. Overall, student placement prediction using EDA empowers stakeho
 
 
 
-# Download Data set (https://drive.google.com/file/d/1HQ6tJ9TDvPUfYQyjkxvo2KI83fvROBwt/view?usp=drive_link)
+# Download Data set :
+https://drive.google.com/file/d/1HQ6tJ9TDvPUfYQyjkxvo2KI83fvROBwt/view?usp=drive_link
 
 # Keywords:
 Support Vector Machine, Student data analysis, Classification algorithms, Feature
