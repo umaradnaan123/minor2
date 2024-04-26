@@ -17,6 +17,6 @@ and the predictive task at hand. Common modeling approaches for student placeme
 predictive models are developed, they are evaluated using suitable performance metrics and validation techniques to assess their accuracy, robustness, and generalization
 capabilities. The insights derived from these models can then be leveraged by educational institutions, career advisors, and employers to optimize student placement processes, personalize educational pathways, and enhance overall student success and
 employability. Overall, student placement prediction using EDA empowers stakeholders with data-driven insights to make informed decisions.
-#[Keywords:]
+#Keywords:
 Support Vector Machine, Student data analysis, Classification algorithms, Feature
 selection, Data Preprocessing, Data visualization, Feature selection.
